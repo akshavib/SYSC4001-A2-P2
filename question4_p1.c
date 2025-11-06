@@ -19,7 +19,11 @@ typedef struct { /* struct for the multiple variable and counter variable */
     int counter;
 } sharedVars;
 
-
+union semun { /* union made for semctl */
+    int val;
+    struct semid_ds *buf;
+    unsigned short *array;
+};
 
 int main(){
     int shmid = shmget(IPC_PRIVATE, sizeof(sharedVars), IPC_CREAT | 0666); /* create shared memory segment */
