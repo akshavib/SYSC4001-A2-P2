@@ -1,4 +1,8 @@
 /*
+* @file question4_p1.c
+* @author 101302106 - Akshavi Baskaran 
+* @author 101315124 - Liam Addie
+*
 * QUESTION 4 - Sharing memory between parent and child processes
 * Using the memory mapping functions to share memory between a parent and child process.
 *

@@ -1,4 +1,8 @@
 /*
+* @file question2_p2.c
+* @author 101302106 - Akshavi Baskaran 
+* @author 101315124 - Liam Addie
+*
 * QUESTION 2 - Concurrent Processes in Unix
 * Extended Processes Using exec() and Multiples of Three
 *

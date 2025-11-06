@@ -1,4 +1,8 @@
 /*
+* @file question3_p2.c
+* @author 101302106 - Akshavi Baskaran 
+* @author 101315124 - Liam Addie
+*
 * QUESTION 3 - Concurrent Processes in Unix
 * Using the wait() system call
 *

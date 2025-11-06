@@ -1,4 +1,8 @@
 /*
+* @file question5_p1.c
+* @author 101302106 - Akshavi Baskaran 
+* @author 101315124 - Liam Addie
+*
 * QUESTION 5 - Sharing memory and semaphores 
 * Protect concurrent access to shared memory using semaphores
 *

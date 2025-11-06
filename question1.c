@@ -1,4 +1,8 @@
 /*
+* @file question1.c
+* @author 101302106 - Akshavi Baskaran 
+* @author 101315124 - Liam Addie
+*
 * QUESTION 1 - Concurrent Processes in Unix
 * Running Two Processes: Parent and Child 
 * 
